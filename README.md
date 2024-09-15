@@ -4,24 +4,26 @@
 
 This repository contains a comprehensive analysis of sales and financial performance for the Atliq Hardware project. The analysis is conducted using Excel and includes various reports providing insights into key metrics and trends.
 
-## Current Reports
+## Reports
 
-1. **Sales_Report.xlsx**: Detailed analysis of sales performance.
-   - [Download Sales Report](./Sales_Report.xlsx)
+1. **Customer Performance Report.pdf**: Analyzes customer performance metrics, including sales trends, customer segmentation, and satisfaction indicators.
+   - [Customer Performance Report](./Customer_Performance_Report.pdf)
 
-2. **Financial_Report.xlsx**: Overview of financial performance.
-   - [Download Financial Report](./Financial_Report.xlsx)
+2. **Market Performance vs Target Report.pdf**: Compares actual market performance against predefined targets, highlighting variances and trends.
+   - [Market Performance vs Target Report](./Market_Performance_vs_Target_Report.pdf)
 
-3. **Customer_Performance.xlsx**: Insights into customer performance metrics.
-   - [Download Customer Performance Report](./Customer_Performance.xlsx)
+3. **P&L Statement by Fiscal Year.pdf**: Provides a detailed Profit and Loss statement segmented by fiscal year, showing annual financial performance.
+   - [P&L Statement by Fiscal Year](./P&L_Statement_by_Fiscal_Year.pdf)
 
-4. **Market_Performance_vs_Target.xlsx**: Comparison of market performance against targets.
-   - [Download Market Performance vs. Target Report](./Market_Performance_vs_Target.xlsx)
+4. **P&L Statement by Markets.pdf**: Displays Profit and Loss statements segmented by different markets, providing insights into market-specific performance.
+   - [P&L Statement by Markets](./P&L_Statement_by_Markets.pdf)
 
-5. **P&L_Statement_Fiscal_Year.xlsx**: Profit and Loss statement by fiscal year.
-   - [Download P&L Statement by Fiscal Year](./P&L_Statement_Fiscal_Year.xlsx)
-
-6. **P&L_Statement_Markets_Months.xlsx**: Profit and Loss statements segmented by markets and months.
-   - [Download P&L Statements by Markets and Months](./P&L_Statement_Markets_Months.xlsx)
+5. **P&L Statement by Months.pdf**: Contains Profit and Loss statements segmented by months, offering a detailed view of financial performance over time.
+   - [P&L Statement by Months](./P&L_Statement_by_Months.pdf)
 
 
+## Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/akankshamhaske/atliq-hardware-performance-analysis.git
