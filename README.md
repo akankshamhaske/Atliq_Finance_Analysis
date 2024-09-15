@@ -10,7 +10,7 @@ This repository contains a comprehensive analysis of sales and financial perform
    - [Customer Performance Report](https://github.com/akankshamhaske/Atliq_Finance_Analysis/blob/1ab53e7623c4f3f4ed3c61e814ddc36d8668fa7f/Customer%20Performance%20Report.pdf)
 
 2. **Market Performance vs Target Report.pdf**: Compares actual market performance against predefined targets, highlighting variances and trends.
-   - [Market Performance vs Target Report](./Market_Performance_vs_Target_Report.pdf)
+   - [Market Performance vs Target Report](https://github.com/akankshamhaske/Atliq_Finance_Analysis/blob/11aacfefec4aac6b3f1335977e8621772b8d59f8/Market%20Performance%20vs%20Target%20Report.pdf)
 
 3. **P&L Statement by Fiscal Year.pdf**: Provides a detailed Profit and Loss statement segmented by fiscal year, showing annual financial performance.
    - [P&L Statement by Fiscal Year](./P&L_Statement_by_Fiscal_Year.pdf)
