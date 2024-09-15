@@ -7,7 +7,7 @@ This repository contains a comprehensive analysis of sales and financial perform
 ## Reports
 
 1. **Customer Performance Report.pdf**: Analyzes customer performance metrics, including sales trends, customer segmentation, and satisfaction indicators.
-   - [Customer Performance Report](./Customer_Performance_Report.pdf)
+   - [Customer Performance Report](https://github.com/akankshamhaske/Atliq_Finance_Analysis/blob/1ab53e7623c4f3f4ed3c61e814ddc36d8668fa7f/Customer%20Performance%20Report.pdf)
 
 2. **Market Performance vs Target Report.pdf**: Compares actual market performance against predefined targets, highlighting variances and trends.
    - [Market Performance vs Target Report](./Market_Performance_vs_Target_Report.pdf)
